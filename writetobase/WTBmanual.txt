@@ -1,12 +1,14 @@
 WRITE TO BASE
 
-//////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////
 
 The writetobase(WTB) script is a simple script used for writing information to the Permabase 
 database.
 
 !!!  IMPORTANT !!!
-	-make sure you have a good understanding of the Permabase datastructure before using, and always look at the documentation for each individual dictionary before starting a new one. Also make sure and look over the WTB script and understand exactly what it is doing.
+	-make sure you have a good understanding of the Permabase datastructure before using,
+	and always look at the documentation for each individual dictionary before starting a new one.
+	Also make sure and look over the WTB script and understand exactly what it is doing.
 
 Command Reference:
 
@@ -22,8 +24,9 @@ at the 'Continue?:' prompt
 
 !!! IF YOU DONT PRESS 'n' TO COSE SCRIPT NOTHING YOU WROTE WILL BE SAVED TO THE FILE
 
-////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-feel free to manipulate and tweek this script on your local machine to fit your desires, just stick with the indention format for now.
+feel free to manipulate and tweek this script on your local machine to fit your desires,
+just stick with the indention format for now.
 
 -Rimann
