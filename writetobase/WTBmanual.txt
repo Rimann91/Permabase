@@ -22,7 +22,7 @@ at the 'Continue?:' prompt
 - 'enddi'  ->  end dictionary, (adds '}' opens new line
 - 'newdi'  ->  start a new dictionary, prompts for name
 
-!!! IF YOU DONT PRESS 'n' TO COSE SCRIPT NOTHING YOU WROTE WILL BE SAVED TO THE FILE
+!!! IF YOU DONT PRESS 'n' TO CLOSE THE LOOP NOTHING YOU WROTE WILL BE SAVED TO THE FILE
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 
