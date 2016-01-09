@@ -12,7 +12,7 @@ database.
 
 Command Reference:
 
-First prompt is for the file name, just enter the file you database file you wish to write to
+First prompt is for the file name, just enter the database file you wish to write to
 	
 at the 'Continue?:' prompt
 - 'y'      ->  continue with next item in list
