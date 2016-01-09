@@ -1,24 +1,6 @@
-for kind in Nitrogen:
-    for specie in  Nitrogen[kind]:
-        print specie
-
-choice = str(raw_input('what kind of plant?  '))
-
-def whatkind(choice):
-    if choice == 'trees':
-        for kind in Nitrogen:
-            for specie in Nitrogen[kind]:
-                print "scientific: " + str(specie[0])
-                print "common: " + str(specie[1])
-                print
-    else:
-        return false
-
-whatkind(choice)
-
-
-
-
+""" Database of plants by function, includes: Nitogen Fixers, Dynamic Accumulators,
+    Aromatic pest confusers, """
+    
 Nitrogen = {
             'Tree':[
                             ('Ainus cordata', 'Italian Alder'),
